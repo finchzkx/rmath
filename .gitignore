@@ -1,0 +1,47 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+.nfs*
+
+# IDEs and editors
+# JetBrains IDEs (IntelliJ, PhpStorm, PyCharm, WebStorm, etc.)
+.idea/
+
+# VS Code
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.cproject
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Node.js
+node_modules/
+
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Logs
+*.log
+
+# System files
+Icon?
+ehthumbs.db
+
+
+
